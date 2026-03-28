@@ -14,10 +14,10 @@ A React-based movie application to explore trending movies and search functional
 - Appwrite
 
 **Run Locally**
-git clone https://github.com/bhavikas-9999/movie-app.git
-cd movie-app
-npm install
-npm run dev
+- git clone https://github.com/bhavikas-9999/movie-app-react.git
+- cd movie-app
+- npm install
+- npm run dev
 
 **Screenshots**
 <img width="1746" height="851" alt="image" src="https://github.com/user-attachments/assets/b015fa25-beec-44ea-b5cd-c3598dba5d01" />
